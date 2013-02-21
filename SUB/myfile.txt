@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><ods:tag xmlns:ods="http://www.opendiscoveryspace.eu/socialdata/v1/ods">
+		<identifier>302</identifier>
+		<controlledTag>false</controlledTag>
+		<type>tag</type>
+		<lomIdentifier/>
+		<userIdentifier>71</userIdentifier>
+		<status>Status-new</status>
+		<timeStamp>2011-10-06T16:07:11+03:00</timeStamp>
+		<loIdentifier>http://confolio.vm.grnet.gr/scam/2/entry/678</loIdentifier>
+		<tagText>website
+			,
+			YannArthus-Bertrand
+			,
+		</tagText>
+		<dataProvider>Organic Edunet Portal</dataProvider>
+	</ods:tag>
+
